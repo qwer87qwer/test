@@ -1,8 +1,0 @@
-0409_1
-
-LICENSE
-README.md
-ls13.txt
-ls3.txt
-new.txt
-test.txt

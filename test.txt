@@ -1,5 +1,0 @@
-0409_1
-LICENSE
-README.md
-new.txt
-test.txt

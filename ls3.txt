@@ -1,9 +1,0 @@
-0409_1
-LICENSE
-README.md
-ls3.txt
-new.txt
-
-
-
-1test.txt
